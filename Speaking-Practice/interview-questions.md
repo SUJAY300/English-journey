@@ -6,7 +6,7 @@ Tell me about yourself.
 
 ### My Answer
 
-I am currently a passout student from VESIT. My this weeks goal is to complete missing semester lectures. I love taking photographs and also give them my personal touch using adobe softwares. I also enjoy swimming, drawing, and playing valorant. My goal is to land a decent paying backend job. This is my first step kinda goal.
+> I am currently a passout student from VESIT. My this weeks goal is to complete missing semester lectures. I love taking photographs and also give them my personal touch using adobe softwares. I also enjoy swimming, drawing, and playing valorant. My goal is to land a decent paying backend job. This is my first step kinda goal.
 
 ### Feedback
 
@@ -52,7 +52,7 @@ Photography is one of my biggest hobbies.
 
 ### Improved Version
 
-I recently graduated from VESIT. My goal for this week is to complete the lectures that I missed during the semester. I love taking photographs and giving them my personal touch using Adobe software. I also enjoy swimming, drawing, and playing Valorant. My current goal is to land a decent-paying backend developer job. This is my first major career milestone.
+> I recently graduated from VESIT. My goal for this week is to complete the lectures that I missed during the semester. I love taking photographs and giving them my personal touch using Adobe software. I also enjoy swimming, drawing, and playing Valorant. My current goal is to land a decent-paying backend developer job. This is my first major career milestone.
 
 ---
 
@@ -64,12 +64,12 @@ What project are you most proud of, and why?
 
 ### My Answer
 
-1. Backend is a very niche skill and frontend development is filled with normies. Also AI has taken over frontend development and tools like claude code, gemini, v0, etc are good enough to make mid level designs. Meanwhile Backend dev cant be replaced by AI this easily, while it can make low level systems, making high level systems will still require human skills.
-
-2. Currently i am still learning fundamentals such as Linux, Git, GitBash and a little bit of python.
-
-3. Intelliwealth, a fin-tech webapp. I research all finance tools like fd, sip calculators and their formulas and make APIs.
-Also I went through gov grs regarding old and new tax scheme to make tax calculator. Moreover i didnt stop at this level but instead pushed and integrated openAI API, NewsAPI and a LLM model that my friend made into the webapp.
+> 1. Backend is a very niche skill and frontend development is filled with normies. Also AI has taken over frontend development and tools like claude code, gemini, v0, etc are good enough to make mid level designs. Meanwhile Backend dev cant be replaced by AI this easily, while it can make low level systems, making high level systems will still require human skills.
+> 
+> 2. Currently i am still learning fundamentals such as Linux, Git, GitBash and a little bit of python.
+> 
+> 3. Intelliwealth, a fin-tech webapp. I research all finance tools like fd, sip calculators and their formulas and make APIs.
+> Also I went through gov grs regarding old and new tax scheme to make tax calculator. Moreover i didnt stop at this level but instead pushed and integrated openAI API, NewsAPI and a LLM model that my friend made into the webapp.
 
 ### Feedback
 
@@ -118,17 +118,17 @@ Being able to say it smoothly will help in interviews.
 
 ### Improved Version
 
-1. Why did you choose backend development instead of frontend development?
-
-I chose backend development because it is a more specialized skill. Frontend development is becoming increasingly accessible due to modern AI tools. Tools such as Claude Code, Gemini, and v0 can already generate decent user interfaces and mid-level designs. However, backend development involves designing scalable systems, handling databases, ensuring security, and building reliable architectures. While AI can assist with coding, I believe creating complex, large-scale systems still requires human judgment and engineering skills.
-
-2. What backend technologies have you learned so far?
-
-I am currently focusing on the fundamentals. I have been learning Linux, Git, Git Bash, and Python. My goal is to build a strong foundation before moving on to advanced backend concepts such as databases, APIs, system design, and cloud technologies.
-
-3. What project are you most proud of, and why?
-
-The project I am most proud of is Intelliwealth, a fintech web application. I researched various financial tools, such as fixed deposit and SIP calculators, and implemented their formulas through APIs. I also studied government regulations related to the old and new tax regimes in order to build an accurate tax calculator. In addition, I integrated the OpenAI API, NewsAPI, and a custom LLM developed by my friend. This project taught me how to combine multiple technologies to solve real-world problems.
+> 1. Why did you choose backend development instead of frontend development?
+> 
+> I chose backend development because it is a more specialized skill. Frontend development is becoming increasingly accessible due to modern AI tools. Tools such as Claude Code, Gemini, and v0 can already generate decent user interfaces and mid-level designs. However, backend development involves designing scalable systems, handling databases, ensuring security, and building reliable architectures. While AI can assist with coding, I believe creating complex, large-scale systems still requires human judgment and engineering skills.
+> 
+> 2. What backend technologies have you learned so far?
+> 
+> I am currently focusing on the fundamentals. I have been learning Linux, Git, Git Bash, and Python. My goal is to build a strong foundation before moving on to advanced backend concepts such as databases, APIs, system design, and cloud technologies.
+> 
+> 3. What project are you most proud of, and why?
+> 
+> The project I am most proud of is Intelliwealth, a fintech web application. I researched various financial tools, such as fixed deposit and SIP calculators, and implemented their formulas through APIs. I also studied government regulations related to the old and new tax regimes in order to build an accurate tax calculator. In addition, I integrated the OpenAI API, NewsAPI, and a custom LLM developed by my friend. This project taught me how to combine multiple technologies to solve real-world problems.
 
 ---
 
@@ -138,7 +138,7 @@ Describe a failure and what it taught you.
 
 ### My Answer
 
-This is one of my biggest failure and it is not a result or an output that i get but it is more of a behavioral habit. I usually tend to slack off while preparing for my exams most of the times before my first exam of the semester i tend to overestimate my preparation level as a result i dont do well in the first exam. But this is a common mental trap i fall into. Till now i havent been able to fix this habit. but this really thought me a bad habit that i still follow and still need to work on.
+> This is one of my biggest failure and it is not a result or an output that i get but it is more of a behavioral habit. I usually tend to slack off while preparing for my exams most of the times before my first exam of the semester i tend to overestimate my preparation level as a result i dont do well in the first exam. But this is a common mental trap i fall into. Till now i havent been able to fix this habit. but this really thought me a bad habit that i still follow and still need to work on.
 
 ### Feedback
 
@@ -185,15 +185,7 @@ That's exactly how a professional would say it.
 
 ### Improved Version
 
-One of my biggest failures is not a specific result or outcome, but rather a behavioral habit that I still struggle with.
-
-During exam preparation, I often tend to become complacent and overestimate how well prepared I am. As a result, I sometimes put in less effort than necessary, especially before the first exam of the semester. This usually leads to poorer performance than I expect.
-
-The challenging part is that this is a mental trap that I have fallen into multiple times. Even though I am aware of it, I have not completely overcome it yet.
-
-However, this habit has taught me an important lesson: confidence should be supported by consistent preparation rather than assumptions. It has made me more aware of my weaknesses and shown me that self-discipline is just as important as intelligence or talent.
-
-While I have made some progress, this is still an area of my life that I am actively working to improve.
+> One of my biggest failures is not a specific result or outcome, but rather a behavioral habit that I still struggle with. During exam preparation, I often tend to become complacent and overestimate how well prepared I am. As a result, I sometimes put in less effort than necessary, especially before the first exam of the semester. This usually leads to poorer performance than I expect. The challenging part is that this is a mental trap that I have fallen into multiple times. Even though I am aware of it, I have not completely overcome it yet. However, this habit has taught me an important lesson: confidence should be supported by consistent preparation rather than assumptions. It has made me more aware of my weaknesses and shown me that self-discipline is just as important as intelligence or talent. While I have made some progress, this is still an area of my life that I am actively working to improve.
 
 ---
 
@@ -203,7 +195,7 @@ Where do you see yourself in five years?
 
 ### My Answer
 
-In five years, i see myself at the role of senior backend developer who is already learning about devops and SRE. I aim to level up to the highest role will gaining as much as experience i can through my corporate job. If by any chance i loose interest in Tech field i may rethink about it and move towards MBA roles in finance, operations or any other specialised skill.
+> In five years, i see myself at the role of senior backend developer who is already learning about devops and SRE. I aim to level up to the highest role will gaining as much as experience i can through my corporate job. If by any chance i loose interest in Tech field i may rethink about it and move towards MBA roles in finance, operations or any other specialised skill.
 
 ### Feedback
 
@@ -258,4 +250,89 @@ These phrases sound very professional in interviews.
 
 ### Improved Version
 
-In five years, I see myself working as a Senior Backend Developer and gradually expanding my expertise into DevOps and Site Reliability Engineering (SRE). I want to continuously improve my technical skills and gain as much practical experience as possible through my corporate career. My long-term goal is to take on greater responsibilities and contribute to the design of large-scale, reliable systems. However, I also believe in being adaptable. If I ever lose interest in the technology field, I may consider pursuing an MBA and transitioning into finance, operations, or another specialized domain where I can apply my analytical and problem-solving skills.
+> In five years, I see myself working as a Senior Backend Developer and gradually expanding my expertise into DevOps and Site Reliability Engineering (SRE). I want to continuously improve my technical skills and gain as much practical experience as possible through my corporate career. My long-term goal is to take on greater responsibilities and contribute to the design of large-scale, reliable systems. However, I also believe in being adaptable. If I ever lose interest in the technology field, I may consider pursuing an MBA and transitioning into finance, operations, or another specialized domain where I can apply my analytical and problem-solving skills.
+
+---
+
+## Question
+
+What three qualities would you look for, and why?
+
+### My Answer
+
+> To be honest this explanation is for you, I am currently at advanced-beginner level of backend roadmap where i am not ready for internship. 
+But still if that you have asked my to answer i would say, problem-solving, collaboration with the team and future ready vision for improving the current system. As in backend development it is really important to solve any problem that my popup unknowingly and collaborate with the team. Collaboration does not end in the backend team but it can also be extended to the frontend team and clients as well like understanding the requirements and idea. Future ready vision to experiment and enhance the current systems efficiency.
+
+### Feedback
+
+First, let's improve your English
+
+Your original answer:
+
+To be honest this explanation is for you, I am currently at advanced-beginner level of backend roadmap where i am not ready for internship.
+
+A more natural version:
+
+To be honest, this answer is mostly theoretical because I am still at an advanced-beginner stage in my backend learning journey. I don't feel fully prepared for an internship yet, but if I had to choose three qualities, these would be my picks.
+
+Notice how "backend roadmap" became "backend learning journey." That's a phrase native speakers use more often.
+
+English Feedback
+
+You wrote:
+
+"problem that may popup unknowingly"
+
+A more natural version:
+
+"unexpected problems that may arise"
+
+This phrase is very common in professional English.
+
+Example:
+
+Backend systems often face unexpected problems that arise under heavy traffic.
+
+You wrote:
+
+"future ready vision"
+
+A stronger phrase would be:
+
+"long-term thinking"
+
+or
+
+"a forward-looking mindset"
+
+Example:
+
+I value engineers who have a forward-looking mindset and think about future scalability.
+
+### Improved Version
+
+> If I were interviewing a backend developer, I would look for three qualities: problem-solving ability, collaboration skills, and a long-term vision for improving systems.
+> 
+> First, problem-solving is essential because backend developers regularly encounter unexpected issues, bugs, and performance bottlenecks. A good developer should be able to analyze problems logically and find effective solutions.
+> 
+> Second, collaboration is extremely important. Backend developers do not work in isolation. They often need to coordinate with frontend developers, product managers, clients, and other stakeholders to understand requirements and deliver the right solution.
+> 
+> Finally, I would value a long-term vision. A developer should not focus only on making the system work today. They should also think about scalability, maintainability, and future improvements that can make the system more efficient and reliable over time.
+
+---
+
+## Question
+
+
+
+### My Answer
+
+> 
+
+### Feedback
+
+
+
+### Improved Version
+
+> 
