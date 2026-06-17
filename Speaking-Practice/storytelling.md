@@ -1,5 +1,3 @@
-# storytelling.md
-
 # Storytelling Practice
 
 ## Story 01
