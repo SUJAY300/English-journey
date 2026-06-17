@@ -1,5 +1,26 @@
 # Discussion Practice
 
+```
+---
+
+## Topic
+
+[Write here]
+
+### My Response
+
+[Write here]
+
+### Polished Version
+
+[Write here]
+
+### Improvements
+
+[Write here]
+
+```
+
 ## Topic
 
 Do you think AI will create more jobs or eliminate more jobs over the next 10 years? Why?
