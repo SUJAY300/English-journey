@@ -1,5 +1,26 @@
 # Interview Questions
 
+###
+```
+---
+
+## Question
+
+[]
+
+### My Answer
+
+> 
+
+### Feedback
+
+[]
+
+### Improved Version
+
+> 
+
+```
 ## Question
 
 Tell me about yourself.
@@ -323,16 +344,76 @@ I value engineers who have a forward-looking mindset and think about future scal
 
 ## Question
 
-
+If you successfully get a backend job next year, what is the first thing you would do with your first salary?
 
 ### My Answer
 
-> 
+> Good question. And i have already planned out the places my starting paychecks would land into. The first paycheck i would invest 50% into my current skills or my setup although it really depends how much the paycheck is and what all i can do in that 50%. rest 50% i will break down and invest into emergency funds where liquidity is high while being at reasonable interest rate. Also i would like to start an SIP and plan for fixed deposit laddering. And if left with funds i would save it for daily travelling, outings and treats for me. 
 
 ### Feedback
 
+English Improvements
+❌ "The first paycheck i would invest 50%"
 
+✅ Better:
+
+"I would invest 50% of my first paycheck..."
+
+Notice the difference:
+
+invest 50% of my paycheck
+spend 20% of my income
+save 30% of my salary
+❌ "where liquidity is high while being at reasonable interest rate"
+
+✅ Better:
+
+"where liquidity is high while still offering a reasonable return"
+
+or
+
+"while maintaining a reasonable interest rate"
+
+❌ "And if left with funds"
+
+✅ Better:
+
+"If I had any money left over..."
+
+This is a very natural phrase.
+
+Example:
+
+If I had any money left over, I would treat myself to a nice meal.
+
+Vocabulary Upgrade
+
+You wrote:
+
+"invest in my current skills"
+
+A professional way to say this is:
+
+"invest in my professional development"
+
+Example:
+
+I would allocate part of my salary toward my professional development through courses, certifications, and better equipment.
 
 ### Improved Version
 
-> 
+> I have already planned how I would use my first paycheck. I would invest around 50% of it in myself, either by improving my skills or upgrading my work setup. However, the exact allocation would depend on the size of the paycheck and what I need at that time. I would use the remaining 50% to build an emergency fund by keeping the money in a highly liquid investment with a reasonable return. I would also like to start a SIP and gradually build a fixed-deposit ladder for long-term financial stability. If I still had money left over, I would set some aside for daily commuting expenses, occasional outings, and small rewards for myself.
+
+### Tip
+
+If an interviewer asked:
+
+> "What would you do with your first salary?"
+
+Your answer would become even stronger if you added one sentence about why.
+
+For example:
+
+> Financial independence is important to me because it would allow me to make my own decisions and reduce my dependence on others.
+
+That connects your financial plan to your personal motivation.
