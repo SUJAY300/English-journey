@@ -145,6 +145,95 @@ I don't know why.
 
 ## Topic
 
+Which of these goals feels the most urgent to you right now, and why?
+
+### My Response
+
+> To be honest landing a backend internship or a job feels like the most urgent goal for me. As i am the youngest kid my parents are thinking about my future on their own without taking me or my choices into the picture. This sickens me a lot and i feel like i need to get a hold and lead my own life. other options were of CEED and GATE examination for masters but CEED requires heavy funding and GATE requires tons of technological knowledge. So i took this prep year to identify where my interest lies and where i can excel well. So i chose the backend track as i can get financially independent and create a safe ring around me.
+
+### Polished Version
+
+> To be honest, landing a backend internship or job feels like the most urgent goal for me right now. As the youngest child in my family, I often feel that my parents make plans for my future without fully considering my opinions or preferences. This frustrates me because I want to take responsibility for my own life and make my own decisions. I also considered other options, such as preparing for the CEED and GATE examinations for higher studies. However, CEED would require significant financial investment, while GATE demands a very strong technical foundation and extensive preparation. Because of this, I decided to take a preparation year to better understand my interests, strengths, and long-term career goals. After exploring different paths, I found backend development to be the most suitable option for me. It offers a clear career path, opportunities for continuous learning, and a way to become financially independent. For me, financial independence is not just about earning money; it is about having the freedom to make my own choices and shape my own future.
+
+### Improvements
+
+English Feedback
+❌ "This sickens me a lot"
+
+Grammatically it's fine, but in this context it sounds much stronger than what you seem to mean.
+
+Better options:
+
+"This frustrates me."
+
+"This bothers me."
+
+"I find this discouraging at times."
+
+"Sickens me" is usually used for something morally disturbing or disgusting.
+
+❌ "without taking me or my choices into the picture"
+
+✅ More natural:
+
+"without taking my opinions into account"
+
+or
+
+"without considering my preferences"
+
+These are common professional expressions.
+
+❌ "create a safe ring around me"
+
+I understand exactly what you mean, but native speakers don't usually say it that way.
+
+You could say:
+
+"create a sense of security for myself"
+
+or
+
+"build a stable foundation for my future"
+
+or
+
+"create a safety net for myself"
+
+"Safety net" is a very useful phrase.
+
+Communication Observation
+
+Something interesting about your answers:
+
+When discussing technology, you sound analytical.
+
+When discussing your future, you become much more expressive and personal.
+
+That's a sign that your English ability is actually higher than you sometimes think. The grammar still needs work, but you're already capable of discussing motivations, trade-offs, uncertainty, and long-term planning—topics that many learners struggle with.
+
+---
+
+## Topic
+
+[Write here]
+
+### My Response
+
+[Write here]
+
+### Polished Version
+
+[Write here]
+
+### Improvements
+
+[Write here]
+
+---
+
+## Topic
+
 [Write here]
 
 ### My Response
