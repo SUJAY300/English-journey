@@ -194,3 +194,68 @@ The challenging part is that this is a mental trap that I have fallen into multi
 However, this habit has taught me an important lesson: confidence should be supported by consistent preparation rather than assumptions. It has made me more aware of my weaknesses and shown me that self-discipline is just as important as intelligence or talent.
 
 While I have made some progress, this is still an area of my life that I am actively working to improve.
+
+---
+
+## Question
+
+Where do you see yourself in five years?
+
+### My Answer
+
+In five years, i see myself at the role of senior backend developer who is already learning about devops and SRE. I aim to level up to the highest role will gaining as much as experience i can through my corporate job. If by any chance i loose interest in Tech field i may rethink about it and move towards MBA roles in finance, operations or any other specialised skill.
+
+### Feedback
+
+Corrections
+❌ "at the role of senior backend developer"
+
+✅ Better:
+
+"in the role of a Senior Backend Developer"
+
+or
+
+"working as a Senior Backend Developer"
+
+❌ "will gaining as much as experience i can"
+
+✅ Better:
+
+"while gaining as much experience as I can"
+
+Notice:
+
+experience is usually uncountable.
+I must be capitalized.
+❌ "If by any chance i loose interest"
+
+✅ Better:
+
+"If I lose interest"
+
+Lose = opposite of win.
+
+Loose = not tight.
+
+This is a very common mistake, even among native speakers online.
+
+Advanced Interview Vocabulary
+
+Instead of saying:
+
+"I want to level up to the highest role."
+
+You could say:
+
+"I aspire to take on leadership responsibilities."
+
+or
+
+"I aim to progress into senior and leadership positions."
+
+These phrases sound very professional in interviews.
+
+### Improved Version
+
+In five years, I see myself working as a Senior Backend Developer and gradually expanding my expertise into DevOps and Site Reliability Engineering (SRE). I want to continuously improve my technical skills and gain as much practical experience as possible through my corporate career. My long-term goal is to take on greater responsibilities and contribute to the design of large-scale, reliable systems. However, I also believe in being adaptable. If I ever lose interest in the technology field, I may consider pursuing an MBA and transitioning into finance, operations, or another specialized domain where I can apply my analytical and problem-solving skills.
