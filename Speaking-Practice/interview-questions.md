@@ -1,6 +1,5 @@
 # Interview Questions
 
-###
 ```
 ---
 
